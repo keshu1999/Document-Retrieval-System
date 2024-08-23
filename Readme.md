@@ -1,7 +1,9 @@
+## Bag of Words Document Retrieval System
+
 This Assignment is made by :
-Keshav Sharma		ID : 2017A7PS0140P
-Burhan Boxwalla		ID : 2017A7PS0097P
-Pranav Panchumarthi	ID : 2017A7PS0153P
+* Keshav Sharma		ID : 2017A7PS0140P
+* Burhan Boxwalla		ID : 2017A7PS0097P
+* Pranav Panchumarthi	ID : 2017A7PS0153P
 
 The Assignment is am implementation of the working Information Retrieval Systems. To run the Vector-Space based Information Retrieval System
 
